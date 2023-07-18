@@ -1,6 +1,6 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles_model = ["BERT", "GPT", "Transformer", "T5", "BART"];
-let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised","KBQA","Question Answering","Knowledge Base","Semantic Parsing"];
+let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised","KBQA","Question Answering","Knowledge Base","Semantic Parsing","Zero-shot","Composition","Constrative","Sentence Embeddings","Compositional","Text-to-SQL"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yu Gu"];
 
